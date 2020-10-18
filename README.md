@@ -9,9 +9,8 @@ Esse projeto teve como objetivo criar um site que conecte você a casas de acolh
 * [Layout Happy Desktop](https://www.figma.com/file/3b0P6pmWr4aYB897oOBRjM/Happy-Web-(Copy)?node-id=0%3A1)
 * [Layout Happy Mobile](https://www.figma.com/file/X27FfVxAgy9f5IFa7ONlph/Happy-Mobile?node-id=0%3A1)
 
-**Linguagens utilizadas:** HTMLL, CSS e Javascript.
-
-**Tecnologias envolvidas: Node.js, Express, SQLite, Handlebars
+**Estudos utilizados:** HTMLL, CSS e Javascript.
+**Tecnologias envolvidas:** Node.js, Express, SQLite, Handlebars
 
 *** 
 **TRILHA DISCOVERY:**
@@ -19,3 +18,5 @@ Esse projeto teve como objetivo criar um site que conecte você a casas de acolh
 - [X] **2º Dia:** Criação da segunda página com utilização do mapa gratuito disponibilizado pelo leaflet e personalização dos botões
 - [X] **3º Dia:** Criação da pagina do formulário onde você pode cadastrar as casas de acolhimento da sua cidade.
 - [X] **4º, 5º e 6º Dia:** Imersão total no back-end com criação do banco de dados e configurações de interatividade.
+
+Desenvolvido com muito entusiasmo por Monique Melo.
