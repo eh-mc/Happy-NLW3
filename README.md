@@ -20,4 +20,6 @@ Esse projeto teve como objetivo criar um site que conecte você a casas de acolh
 - [X] **3º Dia:** Criação da pagina do formulário onde você pode cadastrar as casas de acolhimento da sua cidade.
 - [X] **4º, 5º e 6º Dia:** Imersão total no back-end com criação do banco de dados e configurações de interatividade.
 
-Desenvolvido com muito entusiasmo por Monique Melo.
+
+***
+<center>Desenvolvido com muito entusiasmo por Monique Melo.:computer:</center>
