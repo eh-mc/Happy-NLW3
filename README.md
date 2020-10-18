@@ -13,8 +13,8 @@ Esse projeto teve como objetivo criar um site que conecte você a casas de acolh
 **Linguagens utilizadas:** HTMLL, CSS e Javascript.
 
 
-*** TRILHA DISCOVERY
-- [X]**1º Dia:** Criação da pagina inicial com HTML e personalização com o CSS.
-- [X]**2º Dia:** Criação da segunda página com utilização do mapa gratuito disponibilizado pelo leaflet e personalização dos botões
-- [X]**3º Dia:** Criação da pagina do formulário onde você pode cadastrar as casas de acolhimento da sua cidade.
-- [X]**4º, 5º e 6º Dia:** Imersão total no backend com criação do banco de dados e configurações de interatividade.
+# TRILHA DISCOVERY:
+- [X] **1º Dia:** Criação da pagina inicial com HTML e personalização com o CSS.
+- [X] **2º Dia:** Criação da segunda página com utilização do mapa gratuito disponibilizado pelo leaflet e personalização dos botões
+- [X] **3º Dia:** Criação da pagina do formulário onde você pode cadastrar as casas de acolhimento da sua cidade.
+- [X] **4º, 5º e 6º Dia:** Imersão total no backend com criação do banco de dados e configurações de interatividade.
