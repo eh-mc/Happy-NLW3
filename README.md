@@ -4,6 +4,6 @@ O Happy :smiley: é um projeto desenvolvido durante a Next Level Week 3º ediç�
 
 Esse projeto teve como objetivo criar um site que conecte você a casas de acolhimento institucionais, de modo a facilitar suas visitais aos lugares mais proximos de você.
 
-[Layout do projeto] (https://www.figma.com/file/3b0P6pmWr4aYB897oOBRjM/Happy-Web-(Copy)?node-id=0%3A1)
+[Layout Happy](https://www.figma.com/file/3b0P6pmWr4aYB897oOBRjM/Happy-Web-(Copy)?node-id=0%3A1)
 
 **Linguagens utilizadas:** HTMLL, CSS e Javascript.
