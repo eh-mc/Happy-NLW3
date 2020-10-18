@@ -9,7 +9,8 @@ Esse projeto teve como objetivo criar um site que conecte você a casas de acolh
 * [Layout Happy Desktop](https://www.figma.com/file/3b0P6pmWr4aYB897oOBRjM/Happy-Web-(Copy)?node-id=0%3A1)
 * [Layout Happy Mobile](https://www.figma.com/file/X27FfVxAgy9f5IFa7ONlph/Happy-Mobile?node-id=0%3A1)
 
-**Estudos utilizados:** HTMLL, CSS e Javascript.
+**Estudos utilizados:** HTMLL, CSS e Javascript
+
 **Tecnologias envolvidas:** Node.js, Express, SQLite, Handlebars
 
 *** 
