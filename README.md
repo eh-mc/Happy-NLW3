@@ -22,4 +22,4 @@ Esse projeto teve como objetivo criar um site que conecte você a casas de acolh
 
 
 ***
-<center>Desenvolvido com muito entusiasmo por Monique Melo:computer:</center>
+<center>Desenvolvido com muito entusiasmo por Monique Melo e Erick Henrique:computer:</center>
