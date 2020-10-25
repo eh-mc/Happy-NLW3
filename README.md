@@ -1,5 +1,5 @@
 # Happy-NLW3 
-
+*Projeto desenvolvido em conjunto com minha querida amiga Monique Melo.*
 O Happy :smiley: é um projeto desenvolvido durante a Next Level Week 3º edição, ocorrida entre os dias 12 e 18 de Outubro de 2020, realizada pela @rocketseat. 
 
 ![Página Inicial](https://github.com/guilhermecapitao/nlw3-discovery-happy/blob/master/.github/happy.png)
